@@ -17,7 +17,7 @@ table {
 }
 td {
 	padding: 0;
-	overflow: scroll;
+	overflow: hidden;
 	text-overflow: ellipsis;
 }
 tr {
