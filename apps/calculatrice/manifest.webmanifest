@@ -1,0 +1,15 @@
+{
+  "background_color": "#111130",
+  "description": "A simple calculator pwa.",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icons/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "name": "Calculatrice",
+  "short_name": "Calc",
+  "start_url": "index.html"
+}

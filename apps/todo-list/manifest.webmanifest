@@ -1,0 +1,15 @@
+{
+  "background_color": "#111130",
+  "description": "A To-Do List app.",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icons/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "Tâches",
+  "short_name": "Tâches",
+  "start_url": "index.html"
+}

@@ -1,0 +1,15 @@
+{
+  "background_color": "#111130",
+  "description": "Une application qui contient d'autres applications utiles pour faire ses devoirs.",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icons/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "Homework Tools",
+  "short_name": "Homework",
+  "start_url": "index.html"
+}
