@@ -1,11 +1,11 @@
 ---
 application:
   name: "pwa-homework"
-  project: "QoveryDiscord"
+  project: "test-db"
   organization: "QoveryCommunity"
 databases:
 - type: "MYSQL"
-  name: "a"
+  name: "star"
   version: "8.0"
 routers:
 - name: "main-pwa-homework"
